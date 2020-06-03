@@ -1,6 +1,6 @@
 /**
- * Date: 2020/06/01 - Leet code June Daily challenge
- * Title: 01 Invert Binary Tree
+ * Date: 2020/06/02 - Leet code June Daily challenge
+ * Title: 02 Delete Node
  */
 
 /**
