@@ -1,5 +1,5 @@
 ---
-Date: 2020/06/05 - Leet code June Daily challenge
+Date: 2020/06/ - Leet code June Daily challenge
 Title: 
 ---
 # 00.Title
