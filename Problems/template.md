@@ -1,6 +1,7 @@
 ---
-Date: 2020/06/ - Leet code June Daily challenge
+Date: 2020/06/ 
 Title: 
+tag: leetcode, JuneDailyChallenge
 ---
 # 00.Title
 

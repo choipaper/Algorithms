@@ -1,6 +1,7 @@
 ---
 Date: 2020/06/08 - Leet code June Daily challenge
 Title: PowOfTwo
+tag: leetcode, JuneDailyChallenge
 ---
 # 08.Power of Two
 

@@ -1,6 +1,7 @@
 ---
 Date: 2020/06/05 - Leet code June Daily challenge
 Title: Random Pick
+tag: leetcode, JuneDailyChallenge
 ---
 # 05.Random pick with weight
 

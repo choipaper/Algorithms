@@ -1,6 +1,7 @@
 ---
 Date: 2020/06/10 - Leet code June Daily challenge
 Title: SearchInsertPos
+tag: leetcode, JuneDailyChallenge
 ---
 # 10. Search Insert Position
 

@@ -1,9 +1,10 @@
 ---
 Date: 2020/06/03 - Leet code June Daily challenge
 Title: Two city scheduling
+tag: leetcode, JuneDailyChallenge
 ---
 
-# Two City Scheduling
+# 03.Two City Scheduling
 ## Question
 There are 2N people a company is planning to interview. The cost of flying the i-th person to city A is costs[i][0],  
 and the cost of flying the i-th person to city B is costs[i][1].  

@@ -1,6 +1,7 @@
 ---
 Date: 2020/06/07 - Leet code June Daily challenge
 Title: Coin Change
+tag: leetcode, JuneDailyChallenge
 ---
 # 07.Coin Change 2
 

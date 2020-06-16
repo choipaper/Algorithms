@@ -1,6 +1,7 @@
 ---
 Date: 2020/06/06 - Leet code June Daily challenge
 Title: Queue Reconstruction
+tag: leetcode, JuneDailyChallenge
 ---
 # 06.Queue Reconstruction by height
 
