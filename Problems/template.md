@@ -10,7 +10,8 @@ tag: leetcode, JuneDailyChallenge
 ## Solution
 
 ## Complexity Analysis
-
+- Time complexity:
+- Space comlexity:
 ## Better or improved solution
 
 ## things to know (Algorithms)
