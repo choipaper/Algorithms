@@ -74,7 +74,8 @@ TreeNode* searchBST(TreeNode* root, int val)
 }
 ```
 ## Complexity Analysis
-
+- Time complexity: worst case: O(N) , N: number of TreeNodes
+- Space comlexity: O(1)
 ## Better or improved solution
 ```cpp
 //68ms/ 34.8MB but better readability 
@@ -89,7 +90,7 @@ TreeNode* searchBST(TreeNode* root, int val)
     {
         return root;
     }
-    else if(val < root->val)
+    if(val < root->val)
     {
         return searchBST(root->left, val);
     }
@@ -103,3 +104,4 @@ TreeNode* searchBST(TreeNode* root, int val)
 ```
 
 ## things to know (Algorithms)
+- Binary Search Tree
