@@ -1,5 +1,5 @@
 ---
-Date: 2020/07/ 
+Date: 2020/07/
 Title: 
 tag: leetcode, JulyDailyChallenge
 ---
