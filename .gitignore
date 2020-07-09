@@ -1,2 +1,5 @@
 # ignore files
 .vscode
+
+# complied test file
+testoutput.exe
