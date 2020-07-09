@@ -3,3 +3,6 @@
 
 # complied test file
 testoutput.exe
+
+# ignore visual studio project for debugging
+vsDebugger/
