@@ -1,2 +1,4 @@
-# WIP branch
-- This branch is for incompleted problems
+# Algorithms study
+- solve 1 question every day from Leetcode
+- purpose: to improve problem solving skills and understand many algorithms
++ more c++ understanding
