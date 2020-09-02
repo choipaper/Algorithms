@@ -1,7 +1,7 @@
 ---
-Date: 2020/08/
+Date: 2020/09/
 Title: 
-tag: leetcode, AugustDailyChallenge
+tag: leetcode, SeptemberDailyChallenge
 ---
 # 00.Title
 
