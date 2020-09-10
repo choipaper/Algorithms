@@ -8,7 +8,8 @@ tag: leetcode, SeptemberDailyChallenge
 ## Problem
 
 ## Solution
-
+```cpp
+```
 ## Complexity Analysis
 - Time complexity:
 - Space comlexity:
