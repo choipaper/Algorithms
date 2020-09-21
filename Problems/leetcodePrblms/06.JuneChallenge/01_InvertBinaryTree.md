@@ -24,28 +24,28 @@ Output:
 ## Solution
 ```cpp
 TreeNode* invertTree(TreeNode* root) 
+{
+    // check node whether nullptr or not
+    if(root == nullptr)
     {
-        // check node whether nullptr or not
-        if(root == nullptr)
-        {
-            return root;
-        }
-        // if node is child node, then return the node
-        // this part can simply omitted
-        if(root->left == nullptr && root->right == nullptr)
-        {
-            return root;
-        }
-        else
-        {
-            // recursively find children and swap
-            // then return the node
-            TreeNode* temp = invertTree(root->left);
-            root->left = invertTree(root->right);
-            root->right = temp;
-            return root;
-        }
+        return root;
     }
+    // if node is child node, then return the node
+    // this part can simply omitted
+    if(root->left == nullptr && root->right == nullptr)
+    {
+        return root;
+    }
+    else
+    {
+        // recursively find children and swap
+        // then return the node
+        TreeNode* temp = invertTree(root->left);
+        root->left = invertTree(root->right);
+        root->right = temp;
+        return root;
+    }
+}
 ```
 ## Complexity Analysis
 
