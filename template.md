@@ -1,16 +1,18 @@
 ---
-Date: 2020/06/13
-Title: GradingStudent.md
-tag: HackerRank
+Date: 2021/0/
+Title: 
+tag: leetcode
 ---
-# 01.Grading Student
+# 000.Title
 
 ## Problem
 
 ## Solution
-
+```cpp
+```
 ## Complexity Analysis
-
+- Time complexity:
+- Space comlexity:
 ## Better or improved solution
 
 ## things to know (Algorithms)
